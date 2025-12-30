@@ -1,1 +1,3 @@
-# Cryptographic-Net-Centric-
+## Cryptographic-Net-Centric-
+
+## ngineered a hybrid cryptographic protocol using RSA for secure key exchange and AES for encrypted data transfer to simulate TLS/SSL communication, developing modular Python client-server applications with precise RSA key generation, session key negotiation, nonce verification, and encrypted integer exchange, while also utilizing PGP for secure messaging through public key generation, signing, keyserver uploads, and encrypted email exchange to demonstrate real-world confidentiality practices
